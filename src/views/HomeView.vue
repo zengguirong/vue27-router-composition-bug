@@ -5,7 +5,7 @@
   <main>
     <div>
       <div>
-        Bug: "onBeforeRouteLeave" guard not remove after switching to another view when using keep-alive and composables api
+        Bug: "onBeforeRouteLeave" guard is not removed after switching to another view when using keep-alive and composables api
       </div>
       Steps: 
       <ol>
